@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Los Santos Tour Guide</string>
+
+    <string name="place_title_vespucci">Vespucci Pier</string>
+    <string name="place_des_vespucci">Vespucci Pier is located on the western edge of Los Santos in thee middle of Vespucci Beach.  It is a very photogenic location with good views of the city and the sea and includes a fairground.  Well worth visiting.</string>
+    <string name="place_title_zancudo">Zancudo Control Tower</string>
+    <string name="place_des_zancudo">Located in the military base, Fort Zancudo, the control tower can be a challenging place to visit due to the base\'s aggressive guards.  Visiting it also involves climbing numerous staircases, but it is an interesting location with a number of secret rooms to explore.</string>
+    <string name="place_title_altruist">The Altruist Colony</string>
+     <string name="place_des_altruist">Set in the mountains to the south of Paleto Bay, the Altruist Colony seems like an idyllic location until you meet its inhabitants.  Once they have been dispatched though, you can explore the numerous buildings, the observation tower and the staircase built in the rock that leads to the communications hut.  </string>
+    <string name="place_title_chilliad">Mount Chiliad</string>
+    <string name="place_des_chilliad">Everyone who comes to Los Santos must surely visit Mount Chiliad.  The mountain is the highest place on the island providing views across the entire map.</string>
+    <string name="place_title_maze">Maze Bank Tower</string>
+    <string name="place_des_maze">Being the tallest building in Los Santos, The Maze Bank Tower offers exceptional view of the city and an excellent location for photography and base jumping if you are so inclined.</string>
+    <string name="place_title_observatory">The Observatory</string>
+    <string name="place_des_observatory">The Observatory represents a peaceful location to view the city calmly away from the chaos of the urban sprawl. </string>
+    <string name="place_title_mine">The Abandoned Mine</string>
+    <string name="place_des_mine">This little know location is a great place to find solitude if needed.  There are a number of tunnels to explore and various items you can iteract with. </string>
+
+    <string name="activity_title_darts">Darts</string>
+    <string name="activity_des_darts">Throw the darts at the dartboard.  This game is called darts. It\'s great.</string>
+    <string name="activity_title_golf">Golf</string>
+    <string name="activity_des_golf">A relaxing activity with friends. Take a shot at it.</string>
+
+    <string name="activity_title_roller_coaster">Roller Coaster</string>
+    <string name="activity_des_roller_coaster">An unusual activity for Los Santos. Worth doing if only once.</string>
+    <string name="activity_title_shooting_range">Shooting Range</string>
+    <string name="activity_des_shooting_range">A useful activity if you want to improve your shooting stat.</string>
+    <string name="activity_title_tennis">Tennis</string>
+    <string name="activity_des_tennis">Nobody plays this, but it\'s probably good.</string>
+    <string name="activity_title_ferris_wheel">Ferris Wheel</string>
+    <string name="activity_des_ferris_wheel">Brutally tedious is the only way to describe this activity.</string>
+    <string name="activity_title_arm_wrestling">Arm Wrestling</string>
+    <string name="activity_des_arm_wrestling">An old oil drum and a piece of broken palette. What could be more fun?</string>
+    <string name="activity_title_cinema">Cinema</string>
+    <string name="activity_des_cinema">They apparently show films here, though nobody has ever been know to watch them.</string>
+
+    <string name="custom_title_bennys">Benny\'s Garage</string>
+    <string name="custom_des_bennys">This is the place you go for high-end vehicle customisation; but this can be costly, so make sure you have a healthy bank account before goig to Benny\'s.</string>
+    <string name="custom_title_binco">Binco</string>
+    <string name="custom_des_binco">An example of one of the low-end clothing stores found throughout Los Santos and Blaine County.</string>
+    <string name="custom_title_posonbys">Ponsonby\'s</string>
+    <string name="custom_des_posonbys">Posonby\'s is the premier clothing store in Los Santos.  If you want the best, go to Ponsonby\'s.</string>
+    <string name="custom_title_suburban">Suburban</string>
+    <string name="custom_des_suburban">The trendy mid-range clothing store of Los Santos.</string>
+    <string name="custom_title_ls_customs">L.S. Customs</string>
+    <string name="custom_des_ls_customs">The classic vehicle customisation garage of Los Santos and beyond.</string>
+    <string name="custom_title_mask_shop">The Mask Shop</string>
+    <string name="custom_des_mask_shop">Located on Vespucci Beach, if you want to look like an animal or a clown, this is the place to go. </string>
+    <string name="custom_title_tattoo_parlours">Tattoo Parlour</string>
+    <string name="custom_des_tattoo_parlours">If clothing options aren\'t enough for you, decorate yourself from head to foot at your local tattoo parlour.</string>
+    <string name="custom_title_ammunation">Ammunation</string>
+    <string name="custom_des_ammunation">Though associated with weaponry sales, Ammunation also provides numerous clothing options and a range of accessories found nowhere else.</string>
+    <string name="custom_title_barber_shop">Barber Shops</string>
+    <string name="custom_des_barber_shop">As you might expect, this is the place to restyle your hair; but makeovers are also available in these locations.</string>
+
+    <string name="prop_title_apartments">Apartments</string>
+    <string name="prop_des_apartments">Prices range enormously when it comes to apartments.  All have a garage, but the high-end examples include a planning room if you wish to engage in heist missions.</string>
+    <string name="prop_title_bunkers">Bunkers</string>
+    <string name="prop_des_bunkers">Bunkers offer the chance to make good profits if you\'re prepared to pay the set-up costs, which can be prohibitive.</string>
+    <string name="prop_title_clubhouses">MC Clubhouses</string>
+    <string name="prop_des_clubhouses">Clubhouses represent good value for money.  They include space for 10 bikes, can be expanded to include a bike mod-shop, offer a range of activities and allow the owner to start up biker businesses.</string>
+    <string name="prop_title_crate_warehouse">Crate Warehouses</string>
+    <string name="prop_des_crate_warehouse">With a range of prices and seizes, crate warehouses provide a useful way to make a profit.</string>
+    <string name="prop_title_facilities">Facilities</string>
+    <string name="prop_des_facilities">Expensive though they are, facilities allow the owner to purchase a unique range of vehicles and hst the Doomsday Heists.</string>
+    <string name="prop_title_garages">Garages</string>
+    <string name="prop_des_garages">From small two-car garages to sixty vehicle office garages, these properties are an essential item for any inhabitant of Los Santos.</string>
+    <string name="prop_title_hanger">Hangar</string>
+    <string name="prop_des_hanger">If you want to own your own fleet of customised aircraft, a hangar is essential.  Locations include L.S. International Airport and Fort Zancudo.</string>
+    <string name="prop_title_import_export_garages">Import/Export Garages</string>
+    <string name="prop_des_import_export_garages">Not expensive to buy, relatively speaking, import/export garages offer probably the most profitable business type in Los Santos.</string>
+
+    <string name="prop_title_offices">Offices</string>
+    <string name="prop_des_offices">If you want to be a successful CEO, you need an office.  All have a helipad on the roof and can be expanded to include sixty-car garages and accommodation. </string>
+    <string name="prop_title_yachts">Yachts</string>
+    <string name="prop_des_yachts">Probably the most useless and certainly the most expensive property type, but if you like the water, go ahead.</string>
+
+    <string name="tran_title_akula">Akula</string>
+    <string name="tran_des_akula">With its stealth ability, this helicopter represents one of the safest means of transport in Los Santos. </string>
+    <string name="tran_title_buzzard">Buzzard</string>
+    <string name="tran_des_buzzard">The Buzzard\'s ability to spawn at your feet if you are a CEO, makes this helicopter a must have.</string>
+    <string name="tran_title_nightshark">Nightshark</string>
+    <string name="tran_des_nightshark">Though quite understated in appearance, the Nightshark is the toughest vehicle in Los Santos and can take more damage than a tank, three times more in fact; so, well worth the investment.</string>
+    <string name="tran_title_pyro">Pyro</string>
+    <string name="tran_des_pyro">A fun jet that can outmanoeuvre just about any other plane you might come across.</string>
+    <string name="tran_title_savage">Savage</string>
+    <string name="tran_des_savage">A great big lumbering beast of a helicopter, the Savage has weaponry that is unrivaled by any other vehicle.</string>
+    <string name="tran_title_stromberg">Stromberg</string>
+    <string name="tran_des_stromberg">This car double as a submarine, James Bond style.  It can take care of numerous threats with its guided missiles and offers a great means of transport in a dangerous city.</string>
+    <string name="place_colour">#f8b808</string>
+    <string name="background_white">#ffffff</string>
+    <string name="activities_colour">#f89c90</string>
+    <string name="properties_colour">#e1777f</string>
+    <string name="customisation_colour">#aa6c41</string>
+    <string name="transport_colour">#f79c5e</string>
+    <string name="tab_text_colour_unselected">#6a6b6d</string>
+    <string name="background_grey">#e4e4e4</string>
+    <string name="helicopter">Helicopter</string>
+    <string name="car">Car</string>
+    <string name="jet_fighter">Jet Fighter</string>
+    <string name="players">players</string>
+    <string name="character">character</string>
+    <string name="vehicle">vehicle</string>
+    <string name="dollars">$</string>
+    <string name="thousand_dollars">k</string>
+    <string name="million_dollars">m</string>
+    <string name="player">player</string>
+    <string name="one_or_more_players">1-</string>
+    <string name="places">Places</string>
+    <string name="activities">Activities</string>
+    <string name="properties">Properties</string>
+    <string name="customisation">Customisation</string>
+    <string name="transport">Transport</string>
+    <string name="activity_image">An image of the activity</string>
+    <string name="stars_showing_rating">stars showing rating</string>
+    <string name="category_image">an image representing the category</string>
+    <string name="a_decorative_graphic">a decorative graphic</string>
+    <string name="a_map_of_the_location">a map of the location</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="customisation_location">an image of the customisation location</string>
+    <string name="customisation_icon">an icon indicating the customisation type</string>
+    <string name="location_image">an image of the location</string>
+    <string name="map_icon">an icon indicating a link to the map</string>
+    <string name="property_type">an image of the property type</string>
+    <string name="prices_from">prices from</string>
+    <string name="gta_dollars">GTA$</string>
+    <string name="an_image_of_the_vehicle">an image of the vehicle</string>
+    <string name="type">TYPE</string>
+    <string name="capacity">CAPACITY</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

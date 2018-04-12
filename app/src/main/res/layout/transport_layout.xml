@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="8dp"
+    tools:layout_editor_absoluteY="25dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/an_image_of_the_vehicle"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/transport_buzzard" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/text_box_grey"
+        android:padding="8dp"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        android:textColor="@android:color/black"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#b3000000"
+        android:fontFamily="@font/cabin_bold"
+        android:paddingBottom="3dp"
+        android:paddingEnd="0dp"
+        android:paddingStart="16dp"
+        android:paddingTop="3dp"
+        android:textColor="@color/transport_color"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/image"
+        app:layout_constraintEnd_toEndOf="@+id/image"
+        app:layout_constraintStart_toStartOf="@+id/image" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/transport_color"
+        android:fontFamily="@font/cabin_bold"
+        android:gravity="center_vertical"
+        android:paddingEnd="0dp"
+        android:paddingStart="8dp"
+        android:text="@string/type"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <TextView
+        android:id="@+id/vehicle_passengers"
+        android:layout_width="81dp"
+        android:layout_height="0dp"
+        android:background="@color/transport_color"
+        android:fontFamily="@font/cabin_regular"
+        android:gravity="center_vertical|end"
+        android:paddingBottom="4dp"
+        android:paddingEnd="8dp"
+        android:paddingStart="0dp"
+        android:textAlignment="textEnd"
+        android:textColor="@android:color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/textView11"
+        app:layout_constraintStart_toEndOf="@+id/textView11"
+        app:layout_constraintTop_toTopOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="111dp"
+        android:layout_height="wrap_content"
+        android:background="@color/transport_color"
+        android:fontFamily="@font/cabin_bold"
+        android:gravity="center_vertical"
+        android:paddingBottom="4dp"
+        android:paddingEnd="0dp"
+        android:paddingStart="8dp"
+        android:text="@string/capacity"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/textView9"
+        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/vehicle_cost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/cabin_bold"
+        android:textColor="@android:color/black"
+        app:layout_constraintBaseline_toBaselineOf="@+id/textView2"
+        app:layout_constraintEnd_toStartOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/vehicle_type"
+        android:layout_width="81dp"
+        android:layout_height="0dp"
+        android:background="@color/transport_color"
+        android:fontFamily="@font/cabin_regular"
+        android:gravity="center_vertical|end"
+        android:paddingEnd="8dp"
+        android:paddingStart="0dp"
+        android:textAlignment="textEnd"
+        android:textColor="@android:color/black"
+        app:layout_constraintBottom_toTopOf="@+id/vehicle_passengers"
+        app:layout_constraintStart_toEndOf="@+id/textView9"
+        app:layout_constraintTop_toTopOf="@+id/textView9" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/property_prices_from_background"
+        android:fontFamily="@font/cabin_bold"
+        android:minWidth="78dp"
+        android:paddingBottom="3dp"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:text="@string/prices_from"
+        android:textColor="@android:color/background_light"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/vehicle_type"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/vehicle_type" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cabin_bold"
+        android:text="@string/gta_dollars"
+        android:textColor="@color/gta_dollars"
+        app:layout_constraintBottom_toBottomOf="@+id/vehicle_passengers"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/vehicle_type" />
+</android.support.constraint.ConstraintLayout>

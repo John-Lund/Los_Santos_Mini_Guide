@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="places_color">#f8b808</color>
+    <color name="activities_color">#f89c90</color>
+    <color name="property_color">#e1777f</color>
+    <color name="customisation_color">#aa6c41</color>
+    <color name="transport_color">#f79c5e</color>
+    <color name="gta_dollars">#8bc34a</color>
+    <color name="text_box_grey">#eaeaea</color>
+    <color name="background_grey">#e4e4e4</color>
+</resources>
